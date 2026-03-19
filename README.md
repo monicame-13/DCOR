@@ -5,7 +5,7 @@ To run the evaluation code (DCOR example code.ipynb) you have to additionally do
 
 ## Getting Started
 1. Clone or download this repository
-2. Download the raw data from Zenodo: [[https://doi.org/10.5281/zenodo.19113446]]
+2. Download the raw data from Zenodo: [https://doi.org/10.5281/zenodo.19113446]
 3. Place the data files in the same folder as the notebook
 4. Install dependencies: pip install -r requirements.txt
 5. Open the notebook: jupyter notebook "DCOR example code.ipynb"
